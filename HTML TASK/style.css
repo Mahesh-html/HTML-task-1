@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(215, 250, 228);
+}
+
+h1{
+    color:#CD5888;
+}
+
+div{
+    color:#CD5888;
+    margin: 10px;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    font-size: large;
+    
+}
